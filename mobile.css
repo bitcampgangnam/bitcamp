@@ -125,7 +125,7 @@
     display: flex;
     flex-direction: column;
     text-align: center;
-    color: #f5a3e3;
+    color: #18ff5d;
     font-size: 16px;
     font-weight: 700;
   }
@@ -133,7 +133,7 @@
   .metaverse div,
   .machine-learning div {
     border: 1px solid rgb(255, 255, 255, 0.4);
-    padding: 16px 30px;
+    padding: 16px;
     border-radius: 10px;
     margin: 24px 0px;
   }
@@ -146,17 +146,6 @@
     font-weight: 300;
     width: 100%;
   }
-
-  .machine-learning {
-    margin-top: 30px;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    color: #46e4ea;
-    font-size: 16px;
-    font-weight: 700;
-  }
-
   tr,
   td {
     padding: 0px 10px;
